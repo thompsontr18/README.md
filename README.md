@@ -2,7 +2,7 @@
 
 I'm a college student studying computer science with a concentration in data science. Some technologies I enjoy working with include Python, R, and HTML/CSS.</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsontr18&show_icons=true&bg_color=00000000&hide_border=true)</br>
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsontr18&show_icons=true&bg_color=00000000&hide_border=true)</br>-->
 
 Some of my interests include:
 - 🎮 gaming
