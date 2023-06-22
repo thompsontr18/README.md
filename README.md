@@ -9,7 +9,7 @@ Some of my interests include:
 - ♜ playing chess
 - 📚 reading articles 
 - 💻 learning new technologies
-- ✝️ spreading the gospel
+- ✝️ learning about the gospel
 
 
 
