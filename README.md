@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Trevor Thompson</h1>
+<h1>👋 Hello, my name is Trevor Thompson</h1>
 
 I'm a college student studying computer science with a concentration in data science. Some technologies I enjoy working with include Python, R, and HTML/CSS.</br>
 
