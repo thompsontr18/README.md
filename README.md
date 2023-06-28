@@ -6,7 +6,6 @@ I'm a college student studying computer science with a concentration in data sci
 
 Some of my interests include:
 - 🎮 gaming
-- ♜ playing chess
 - 📚 reading articles 
 - 💻 learning new technologies
 - ✝️ learning about the gospel
