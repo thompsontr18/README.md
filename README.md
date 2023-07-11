@@ -8,7 +8,9 @@ Some of my interests include:
 - 🎮 gaming
 - 📚 reading articles 
 - 💻 learning new technologies
+- 🌐 creating new projects
 - ✝️ learning about the gospel
+
 
 
 
