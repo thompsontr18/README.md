@@ -1,6 +1,6 @@
 <h1>👋 Hello, my name is Trevor Thompson</h1>
 
-I'm a college student studying computer science with a concentration in data science. Some technologies I enjoy working with include Python, R, and HTML/CSS.</br>
+I am a passionate computer science major dedicated to exploring the expanding world of technology. Currently, I am pursuing a data science concentration in computer science at Indiana State University. Eager to apply my theoretical knowledge to real-world challenges, with a strong focus on data science. Seeking opportunities to collaborate, innovate, and contribute to the field of computer science. Open to connecting with professionals and like-minded peers to exchange ideas and broaden my network!</br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsontr18&show_icons=true&bg_color=00000000&hide_border=true)</br>-->
 
